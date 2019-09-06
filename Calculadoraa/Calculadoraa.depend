@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567812668 source:c:\users\marko\desktop\calculadoraa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1567812125 source:c:\users\marko\desktop\calculadoraa\calculadora.c
+	"Calculadora.h"
+
+1567810995 c:\users\marko\desktop\calculadoraa\calculadora.h
+	<stdio.h>
+
